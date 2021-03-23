@@ -2,12 +2,3 @@ a {
     color: black;
     text-decoration: none;
 }
-
-.account {
-    background-color: black;
-    color: white;
-}
-
-.account:hover {
-    background-color: white;
-}
